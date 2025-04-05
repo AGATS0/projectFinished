@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "af6c5700cc08b8e384442213988614eb",
+    "packages": [
+        {
+            "name": "vantyz/php6class-2",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AGATS0/project.git",
+                "reference": "edd37a9f8b8aed2c86b590468c197876d01c45cf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AGATS0/project/zipball/edd37a9f8b8aed2c86b590468c197876d01c45cf",
+                "reference": "edd37a9f8b8aed2c86b590468c197876d01c45cf",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Vantyz\\Php6class2\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Vladislav",
+                    "email": "vantyz757@gmail.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/AGATS0/project/tree/master",
+                "issues": "https://github.com/AGATS0/project/issues"
+            },
+            "time": "2025-04-04T21:28:05+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "vantyz/php6class-2": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}

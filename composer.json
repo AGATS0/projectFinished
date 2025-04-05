@@ -1,0 +1,22 @@
+{
+    "name": "vantyz/php4",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vantyz\\Php4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav",
+            "email": "vantyz757@gmail.com"
+        }
+    ],
+    "require": {
+        "vantyz/php6class-2":"dev-master"
+    },
+    "repositories": [{
+        "type":"vcs",
+        "url": "https://github.com/AGATS0/project"
+    }]
+}
