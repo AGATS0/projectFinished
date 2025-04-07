@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'vantyz/php4',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '25958aa762401201e0e0bab8357d04dd72bfe454',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'vantyz/php4' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '25958aa762401201e0e0bab8357d04dd72bfe454',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -22,7 +22,7 @@
         'vantyz/php6class-2' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'edd37a9f8b8aed2c86b590468c197876d01c45cf',
+            'reference' => 'f18b30cd28396f39b6be14ba40d447df3b5912ae',
             'type' => 'project',
             'install_path' => __DIR__ . '/../vantyz/php6class-2',
             'aliases' => array(

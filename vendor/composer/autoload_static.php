@@ -27,6 +27,8 @@ class ComposerStaticInit13c0b6065bd1b2441770ba07023a8caa
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Vantyz\\Php6class2\\Pizza' => __DIR__ . '/..' . '/vantyz/php6class-2/src/Pizza.php',
+        'Vantyz\\Php6class2\\PizzaStore' => __DIR__ . '/..' . '/vantyz/php6class-2/src/PizzaStore.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

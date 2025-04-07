@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/AGATS0/project.git",
-                "reference": "edd37a9f8b8aed2c86b590468c197876d01c45cf"
+                "reference": "f18b30cd28396f39b6be14ba40d447df3b5912ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/AGATS0/project/zipball/edd37a9f8b8aed2c86b590468c197876d01c45cf",
-                "reference": "edd37a9f8b8aed2c86b590468c197876d01c45cf",
+                "url": "https://api.github.com/repos/AGATS0/project/zipball/f18b30cd28396f39b6be14ba40d447df3b5912ae",
+                "reference": "f18b30cd28396f39b6be14ba40d447df3b5912ae",
                 "shasum": ""
             },
             "default-branch": true,
@@ -37,7 +37,7 @@
                 "source": "https://github.com/AGATS0/project/tree/master",
                 "issues": "https://github.com/AGATS0/project/issues"
             },
-            "time": "2025-04-04T21:28:05+00:00"
+            "time": "2025-04-07T13:23:17+00:00"
         }
     ],
     "packages-dev": [],

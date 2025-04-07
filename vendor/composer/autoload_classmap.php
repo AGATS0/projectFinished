@@ -7,4 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'Vantyz\\Php6class2\\Pizza' => $vendorDir . '/vantyz/php6class-2/src/Pizza.php',
+    'Vantyz\\Php6class2\\PizzaStore' => $vendorDir . '/vantyz/php6class-2/src/PizzaStore.php',
 );
